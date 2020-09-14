@@ -1,4 +1,4 @@
-![c](https://user-images.githubusercontent.com/44340485/91125475-725c1200-e6bf-11ea-8d2b-a030f44ddc70.jpg)
+![c](https://github.com/kazimsayed954/Brain-Tumor-Detection-alpha/blob/master/ScreenShot/chrome_YRa5PLAIkB.png)
 
 
 ## DISCLAIMER 
